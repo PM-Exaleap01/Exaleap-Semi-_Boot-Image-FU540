@@ -7,6 +7,10 @@ Kernel Version: v5.5.6
 
 ![alt text](https://images.prismic.io/sifive/6320ea644480fdb6131b9d63eae826b7a1e1dca9_boards_unleashed.jpg?auto=compress,format)
 
+#### How to Download the Base Image
+1, Make sure git lfs is installed.
+2, git lfs clone https://github.com/PM-Exaleap01/Exaleap-Semi-_Boot-Image-FU540.git
+3, cd Exaleap-Semi-_Boot-Image-FU540 && tar -xvf core-image-base.exaleapsemi.tar.gz
 
 **System Requirements**
 --------------------------------------
