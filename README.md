@@ -9,7 +9,9 @@ Kernel Version: v5.5.6
 
 #### How to Download the Base Image
 1, Make sure git lfs is installed.
+
 2, git lfs clone https://github.com/PM-Exaleap01/Exaleap-Semi-_Boot-Image-FU540.git
+
 3, cd Exaleap-Semi-_Boot-Image-FU540 && tar -xvf core-image-base.exaleapsemi.tar.gz
 
 **System Requirements**
