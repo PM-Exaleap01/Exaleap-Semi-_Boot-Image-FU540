@@ -7,7 +7,7 @@ Kernel Version: v5.5.6
 
 ![alt text](https://images.prismic.io/sifive/6320ea644480fdb6131b9d63eae826b7a1e1dca9_boards_unleashed.jpg?auto=compress,format)
 
-Download the Image by clicking on this URL: https://exaleap-storage.s3.ap-south-1.amazonaws.com/public/core-image-base-exaleapsemi-20201230113707.rootfs.wic.gz
+####Download the Image by clicking on this URL: https://exaleap-storage.s3.ap-south-1.amazonaws.com/public/core-image-base-exaleapsemi-20201230113707.rootfs.wic.gz
 
 **System Requirements**
 --------------------------------------
@@ -56,4 +56,4 @@ $ `sudo minicom -s`
 7, Insert SD card into your Target Board and supply the power.
 
 
-##### For more details, Please reach out to karthik.a@exaleapsemi.com
+##### For more details, Please reach out to contact@exaleapsemi.com
